@@ -1,6 +1,6 @@
 import java.util.*;
 import java.util.Random;
-public class ATM
+public class Guessing
 {
 public static void main(String args[])
 {
